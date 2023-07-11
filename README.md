@@ -34,8 +34,7 @@
 
 Описание проекта 2. Кратко опишите свой проект, чтобы заинтересовать читателя.
 
-- [Ссылка на проект 2 (PDF)]([https://github.com/Kosmos7778/project/proj2.pdf](https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf)https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf)
-- [Ссылка на исходный код проекта 2](https://github.com/Kosmos7778/project/proj2)
+- [Проект 2](https://github.com/Kosmos7778/project/blob/main/Руководство%20пользователя.pdf): Руководство пользователя.
 
  
 
