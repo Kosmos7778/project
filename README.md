@@ -18,5 +18,5 @@
 * [Проект 1](https://github.com/Kosmos7778/project/blob/main/Автореферат.pdf): Автореферат Диссертации.
 * [Проект 2](https://github.com/Kosmos7778/project/blob/main/Руководство%20пользователя.pdf): Руководство пользователя.
 * [Проект 3](intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf): Интеллектуальная система поиска неисправности на самолете.
-* [Проект 4](intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf): 
+* [Проект 4](https://github.com/Kosmos7778/project/blob/main/User%20Manual.pdf): User manual
 
