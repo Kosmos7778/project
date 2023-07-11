@@ -18,5 +18,24 @@
 * [Проект 2](ссылка_на_проект_2): Краткое описание проекта 2.
 * [Проект 3](ссылка_на_проект_3): Краткое о
 
+
+# Портфолио
+
+Добро пожаловать в мое портфолио! Здесь вы найдете некоторые из моих проектов и работы.
+
+## Проект 1: Название проекта
+
+Описание проекта 1. Это краткое описание вашего проекта, рассказывающее о его целях, использованных технологиях и результате.
+
+- [Ссылка на проект 1 (PDF)](https://github.com/Kosmos7778/project/proj1.pdf)
+- [Ссылка на исходный код проекта 1](https://github.com/Kosmos7778/project/proj1)
+
+## Проект 2: Название проекта
+
+Описание проекта 2. Кратко опишите свой проект, чтобы заинтересовать читателя.
+
+- [Ссылка на проект 2 (PDF)]([https://github.com/Kosmos7778/project/proj2.pdf](https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf)https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf)
+- [Ссылка на исходный код проекта 2](https://github.com/Kosmos7778/project/proj2)
+
  
-https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf
+
