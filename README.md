@@ -14,7 +14,7 @@
 
 ## Проекты
 
-* [Проект 1](https://github.com/Kosmos7778/project/blob/main/Автореферат.pdf): Краткое описание проекта 1.
+* [Проект 1](https://github.com/Kosmos7778/project/blob/main/Автореферат.pdf): Автореферат Диссертации.
 * [Проект 2](https://github.com/Kosmos7778/project/blob/main/Руководство%20пользователя.pdf): Руководство пользователя.
 * [Проект 3](ссылка_на_проект_3): Краткое о
 
@@ -27,8 +27,8 @@
 
 Описание проекта 1. Это краткое описание вашего проекта, рассказывающее о его целях, использованных технологиях и результате.
 
-- [Ссылка на проект 1 (PDF)](https://github.com/Kosmos7778/project/proj1.pdf)
-- [Ссылка на исходный код проекта 1](https://github.com/Kosmos7778/project/proj1)
+- [Ссылка на проект 1 (PDF)](https://github.com/Kosmos7778/project/blob/main/Автореферат.pdf)
+[Проект 1](https://github.com/Kosmos7778/project/blob/main/Автореферат.pdf): Автореферат Диссертации.
 
 ## Проект 2: Название проекта
 
