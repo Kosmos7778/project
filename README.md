@@ -19,3 +19,4 @@
 * [Проект 3](ссылка_на_проект_3): Краткое о
 
  
+https://github.com/Kosmos7778/project/blob/main/intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf
