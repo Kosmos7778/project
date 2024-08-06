@@ -1,11 +1,8 @@
 
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Портфолио+технического+писателя&pause=10000)](https://github.com/Kosmos7778/project/blob/main)
-
 
 # Добро пожаловать на мою профессиональную страницу!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технический+писатель-энтузиаст&pause=3000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Технического+писателя-энтузиаста&pause=3000)
 
 ## 👋 Приветствие
 
