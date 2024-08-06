@@ -38,7 +38,7 @@
 
 ## Проекты
 
-* [Проект 1](https://github.com/Kosmos7778/project/blob/main/Руководство%20пользователя.pdf): Руководство пользователя.
+* [Проект 1](https://github.com/Kosmos7778/project/blob/main/Руководство%20пользователя.pdf): Пример руководства пользователя.
 * [Проект 2](intellektualnaya-sistema-poiska-neispravnosti-na-samolyote.pdf): Интеллектуальная система поиска неисправности на самолете.
-* [Проект 3](https://github.com/Kosmos7778/project/blob/main/User%20Manual.pdf): User manual
+* [Проект 3](https://github.com/Kosmos7778/project/blob/main/installation_guide.pdf): Пример руководства по установке
 
