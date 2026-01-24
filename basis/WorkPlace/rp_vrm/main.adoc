@@ -1,0 +1,37 @@
+:sectnums:
+:toc:
+
+= Руководство пользователя
+
+== Перечень включенных в документ глав
+
+include::{chapter-dir}/1.chapter.adoc[]
+include::{chapter-dir}/2.chapter.adoc[]
+include::{chapter-dir}/3.chapter.adoc[]
+include::{chapter-dir}/4.chapter.adoc[]
+include::{chapter-dir}/5.chapter.adoc[]
+include::{chapter-dir}/6.chapter.adoc[]
+include::{chapter-dir}/7.chapter.adoc[]
+include::{chapter-dir}/8.chapter.adoc[]
+include::{chapter-dir}/9.chapter.adoc[]
+include::{chapter-dir}/10.chapter.adoc[]
+include::{chapter-dir}/11.chapter.adoc[]
+include::{chapter-dir}/12.chapter.adoc[]
+include::{chapter-dir}/13.chapter.adoc[]
+include::{chapter-dir}/14.chapter.adoc[]
+include::{chapter-dir}/15.chapter.adoc[]
+include::{chapter-dir}/16.chapter.adoc[]
+include::{chapter-dir}/17.chapter.adoc[]
+include::{chapter-dir}/18.chapter.adoc[]
+include::{chapter-dir}/19.chapter.adoc[]
+include::{chapter-dir}/20.chapter.adoc[]
+
+== Приложения
+
+.<<Файл конфигурации среды функционирования Бэкенда Базис.vControl>>
+.<<Система управления базой данных>>
+.<<Конфигурация развёртывания Базис.vControl>>
+
+include::1.appendix.adoc[]
+include::2.appendix.adoc[]
+include::3.appendix.adoc[]

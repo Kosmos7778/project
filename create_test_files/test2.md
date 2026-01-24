@@ -1,0 +1,40 @@
+
+## 📄 **4. Английская версия (`docs/en/index.md`)**
+
+```markdown
+# Documentation Index
+
+## Project Overview
+
+This is the main documentation page.
+
+## Quick Start
+
+To get started, follow these steps:
+
+1. Install dependencies
+2. Configure settings
+3. Run the server
+
+## Features
+
+- HTML generation from Markdown
+- Multi-language support
+- Automatic navigation
+
+![Project Logo](_images/logo.jpg)
+
+## Navigation
+
+[Installation Guide](../ru/installation.md)
+[API Reference](../ru/api/reference.md)
+
+<div style="background-color: #f0f0f0; padding: 10px;">
+Note: This is test documentation.
+</div>
+
+## Conclusion
+
+Thank you for using our documentation!
+
+необходимостью для того, чтобы
