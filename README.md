@@ -3,8 +3,17 @@ Senior Technical Writer · Docs-as-Code · API & Enterprise Documentation
 
 **Кандидат технических наук** · 13+ лет в документации
 
-📍 Ульяновск · готов к удалённой работе (Москва) · командировки
+📍 Ульяновск · готов к удалённой работе (Россия) · иногда командировки
 📧 oleg_perflliev@mail.ru · Telegram: [@pobeda_778](https://t.me/pobeda_778)
+
+---
+
+## 📊 Портфолио в цифрах
+| 13+ | 60+ | 250+ | 40+ | ~30% |
+|:---:|:---:|:---:|:---:|:---:|
+| лет опыта в документации | описано эндпоинтов API | страниц документации | описанных фич | экономия времени на ревью |
+
+---
 
 ## Обо мне
 Кандидат технических наук, технический писатель с 13+ годами опыта. Специализация: эксплуатационная документация для телекома и enterprise-систем, API-документация (OpenAPI/Swagger), ТЗ/ТУ по ГОСТ 19/34, документация для авиационных и инженерных систем. Работаю по методологии Docs-as-Code: Git, Markdown/AsciiDoc, Sphinx/Diplodoc, CI, ревью через pull request. Внедряю автоматизацию проверки документов (Python, Vale) и обучаю команды.
@@ -12,7 +21,7 @@ Senior Technical Writer · Docs-as-Code · API & Enterprise Documentation
 ## Ключевые компетенции
 | Область | Инструменты / подтверждение |
 |---|---|
-| Docs-as-Code | Git, Markdown, AsciiDoc, reStructuredText, Diplodoc, Sphinx, CI (GitHub Actions) — см. `.github/workflows/` и статью ниже |
+| Docs-as-Code | Git, Markdown, AsciiDoc, reStructuredText, Diplodoc, Sphinx, CI (GitHub Actions) — см. статью ниже |
 | API-документация | OpenAPI/Swagger, описание эндпоинтов, коды ошибок, примеры вызовов — 60 эндпоинтов для 3 сервисов («ИННОТЕХ») |
 | Стандарты | ГОСТ 19, ГОСТ 34, ГОСТ 7.32-2001 (отчёты по НИР), ЕСПД |
 | Автоматизация | Python, PyQt6, Vale, VS Code snippets, Mermaid, PlantUML |
@@ -32,7 +41,7 @@ Senior Technical Writer · Docs-as-Code · API & Enterprise Documentation
 - **Контекст:** REST API трёх сервисов, ~60 эндпоинтов.
 - **Моя роль:** описание эндпоинтов, поддержка актуальности OpenAPI/Swagger; создание регламента Docs as Code.
 - **Результат:** время ревью одного документа сокращено с ~1,5 часов до ~40 минут; автоматизировал проверку документов на Python + PyQt6 — ручных корректировок меньше на ~30%, убрана ручная проверка ~10 типов ошибок.
-- **Артефакт:** [`api-methods.pdf`](./api-methods.pdf)
+- **Артефакт:** [`api-methods.pdf`](./api-methods.pdf) · [`component-diagram.pdf`](./component-diagram.pdf)
 
 ### 3. Документация пользователя и администратора — ООО «Базис»
 - **Контекст:** ~250 страниц в AsciiDoc и reStructuredText; release notes к каждому релизу.
@@ -40,9 +49,9 @@ Senior Technical Writer · Docs-as-Code · API & Enterprise Documentation
 - **Результат:** разработал ~15 сниппетов для VS Code — время на стандартные блоки сокращено на 20–25%; обучил 3 новых сотрудников Docs as Code — адаптация ускорена в 2 раза; обучил команду Vale и сниппетам — стилистических правок на ревью меньше на ~30%; реализовал стратегию ветвлений для документации.
 - **Артефакт:** внутренний артефакт (NDA).
 
-### 4. Руководство по установке (2 версии)
+### 4. Руководства по установке (2 версии)
 - **Что демонстрирует:** версионирование, работа с изменениями, проверка на чистой среде.
-- **Артефакты:** [`installation-guide.pdf`](./installation-guide.pdf) · [`installation-guide-example.pdf`](./installation-guide-example.pdf)
+- **Артефакты:** [`installation-guide.pdf`](./installation-guide.pdf) · [`installation-guide-example.pdf`](./installation-guide-example.pdf) · [`user-guide.pdf`](./user-guide.pdf)
 
 ### 5. ТЗ и ТУ (ГОСТ)
 - **Что демонстрирует:** работа с нормативкой (ГОСТ 19/34), согласование требований.
